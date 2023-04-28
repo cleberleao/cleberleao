@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cleberleao
 - 👀 I’m interested in Java, Python and Angular 2+
 - 🌱 I'm always learning
-- 💞️ I’m looking to collaborate on private projects Java Springboot, python lambda AWS and others
+- 💞️ I’m looking to collaborate on private projects Java Springboot, Python lambda AWS and others
 - 📫 How to reach me LinkedIn @cleberleao
 
 <!---
